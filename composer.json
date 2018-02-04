@@ -10,6 +10,16 @@
     "pattern-lab/styleguidekit-assets-default": "^3.5",
     "cobwebch/patternlab-fluid-styleguidekit": "^1.0"
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/cobwebch/patternlab-fluid-styleguidekit"
+    }, 
+    {
+      "type": "vcs",
+      "url": "https://github.com/cobwebch/patternlab-fluid-patternengine"
+    }
+  ],
   "extra": {
     "patternlab": {
       "starterKitSuggestions": [
