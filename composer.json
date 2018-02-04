@@ -13,11 +13,11 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:cobwebch/patternlab-fluid-styleguidekit.git"
+      "url": "git@github.com:cobwebch/patternlab-fluid-styleguidekit.git"
     }, 
     {
       "type": "vcs",
-      "url": "git@bitbucket.org:cobwebch/patternlab-fluid-patternengine.git"
+      "url": "git@github.com:cobwebch/patternlab-fluid-patternengine.git"
     }
   ],
   "extra": {
