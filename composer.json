@@ -8,13 +8,9 @@
     "typo3fluid/fluid": "^2.4",
     "cobwebch/patternlab-fluid-patternengine": "^1.2",
     "pattern-lab/styleguidekit-assets-default": "^3.5",
-    "cobwebch/patternlab-fluid-styleguidekit": "^1.0"
+    "namelesscoder/patternlab-fluid-styleguidekit": "^1.0"
   },
   "repositories": [
-    {
-      "type": "vcs",
-      "url": "git@github.com:cobwebch/patternlab-fluid-styleguidekit.git"
-    }, 
     {
       "type": "vcs",
       "url": "git@github.com:cobwebch/patternlab-fluid-patternengine.git"
