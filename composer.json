@@ -33,7 +33,8 @@
       "PatternLab": "core/src/"
     },
     "psr-4": {
-      "NamelessCoder\\PatternlabFluidEdition\\": "src/"
+      "NamelessCoder\\PatternlabFluidEdition\\": "src/",
+      "TYPO3\\CMS\\Fluid\\ViewHelpers\\" : "source/_viewhelpers"
     }
   },
   "scripts": {
