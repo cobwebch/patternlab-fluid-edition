@@ -1,19 +1,19 @@
 {
   "minimum-stability": "dev",
   "license": "MIT",
-  "name": "namelesscoder/patternlab-fluid-edition",
+  "name": "cobwebch/patternlab-fluid-edition",
   "type": "project",
   "require": {
     "pattern-lab/core": "^2.8",
     "typo3fluid/fluid": "^2.4",
-    "namelesscoder/patternlab-fluid-patternengine": "^1.2",
+    "cobwebch/patternlab-fluid-patternengine": "^1.2",
     "pattern-lab/styleguidekit-assets-default": "^3.5",
-    "namelesscoder/patternlab-fluid-styleguidekit": "^1.0"
+    "cobwebch/patternlab-fluid-styleguidekit": "^1.0"
   },
   "extra": {
     "patternlab": {
       "starterKitSuggestions": [
-        "namelesscoder/patternlab-fluid-starterkit"
+        "cobwebch/patternlab-fluid-starterkit"
       ]
     }
   },
