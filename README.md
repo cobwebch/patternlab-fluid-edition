@@ -8,6 +8,7 @@ Pattern Lab Fluid Edition for Cobweb
 
 # Installing
 
+IF some questions are asked during update process, choose "yes" everytime
 ## Short story
 
     cd install/location/
